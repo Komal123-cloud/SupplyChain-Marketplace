@@ -17,3 +17,13 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
+RESULTS AND ANALYSIS: 
+
+Home Page:![image](https://github.com/Komal123-cloud/supplyproject/assets/118128960/3399e70a-2fe8-4bce-9594-0ee479515d9b)
+Service Page: ![image](https://github.com/Komal123-cloud/supplyproject/assets/118128960/4b1a8966-0ee4-40b9-9283-4129391559e5)
+Tracking Page: ![image](https://github.com/Komal123-cloud/supplyproject/assets/118128960/77cd1afb-6047-4e80-b9c5-16106c98a454)
+User Profile: ![image](https://github.com/Komal123-cloud/supplyproject/assets/118128960/ec937bc5-ccb9-49a1-bfd6-8eb5f20fed2c)
+
+
+
+
