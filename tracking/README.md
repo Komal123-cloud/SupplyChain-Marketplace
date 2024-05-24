@@ -47,6 +47,11 @@ Contact Us Page: ![image](https://github.com/Komal123-cloud/supplyproject/assets
 
 Product Tracking Status Table: ![image](https://github.com/Komal123-cloud/supplyproject/assets/118128960/f38fbd11-a281-421b-8795-ad6d01fd5f3f)
 
+FUTURE SCOPE:
+
+## Integration with IoT for Temperature Monitoring
+In the future, integration of  IoT devices such as Raspberry Pi for real-time temperature monitoring along the supply chain. This will enhance product quality and integrity by ensuring optimal storage conditions throughout the journey.
+
 
 
 
