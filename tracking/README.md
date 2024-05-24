@@ -49,9 +49,13 @@ Product Tracking Status Table: ![image](https://github.com/Komal123-cloud/supply
 
 #### FUTURE SCOPE:
 
-Integration with IoT for Temperature Monitoring:
+1. Integration with IoT for Temperature Monitoring:
 
 In the future, integration of  IoT devices such as Raspberry Pi for real-time temperature monitoring along the supply chain. This will enhance product quality and integrity by ensuring optimal storage conditions throughout the journey.
+
+2. Supply Chain Marketplace Enhancement:
+
+We can either manually input data as we currently do or provide an automatic Excel sheet with the data, leveraging blockchain technology for improved accuracy and efficiency.
 
 
 
